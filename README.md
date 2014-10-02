@@ -19,4 +19,5 @@ Goodreads Book List
 
 Extra
 1. Capital in the Twenty-First Century - Thomas Piketty (Epub)
+
 2. Fluent Forever How to Learn Any Language Fast and Never Forget It - Gabriel Wyner (Epub)
