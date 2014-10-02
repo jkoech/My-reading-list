@@ -1,7 +1,7 @@
 My-reading-list
 ===============
 
-A list of books I've reading/reading
+A list of books I've read/reading
 
 Goodreads Book List
 
@@ -18,6 +18,6 @@ Goodreads Book List
 11. The Willpower Instinct - by Kelly McGonigal (Epub)
 
 Extra
-1. Capital in the Twenty-First Century - Thomas Piketty (Epub)
 
+1. Capital in the Twenty-First Century - Thomas Piketty (Epub)
 2. Fluent Forever How to Learn Any Language Fast and Never Forget It - Gabriel Wyner (Epub)
